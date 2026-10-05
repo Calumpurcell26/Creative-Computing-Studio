@@ -16,6 +16,6 @@ read -p "what text editor do you currently use? " EDITOR
 echo "The user $SYSTEM_USER is using text editor $EDITOR"
 
 
-read -p  "what is your national insurance number " NI_NUM
+read -p  "what is your national insurance number: " NI_NUM
 
-echo "NI Num is $NI_NUM, Identity is now stolen"
+echo "NI Number is $NI_NUM, Identity is now stolen"
