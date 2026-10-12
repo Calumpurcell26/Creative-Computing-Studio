@@ -11,3 +11,4 @@ Now this is updated from ***Obsidian***
 
 ![](https://cdn.britannica.com/77/81277-050-2A6A35B2/Adelie-penguin.jpg)
 
+See shell scripts here: [[Shell scripts]]
